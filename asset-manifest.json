@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/fruition-app/static/css/main.392192a3.css",
-    "main.js": "/fruition-app/static/js/main.ce77b8b1.js",
+    "main.css": "/fruition-app/static/css/main.cdc6d0d3.css",
+    "main.js": "/fruition-app/static/js/main.27bc7c53.js",
     "static/js/787.5614b298.chunk.js": "/fruition-app/static/js/787.5614b298.chunk.js",
     "static/media/background.jpg": "/fruition-app/static/media/background.ff91f057415476cd29dd.jpg",
     "static/media/logo.png": "/fruition-app/static/media/logo.ca074dc34e3ea36c6ec9.png",
     "index.html": "/fruition-app/index.html",
-    "main.392192a3.css.map": "/fruition-app/static/css/main.392192a3.css.map",
-    "main.ce77b8b1.js.map": "/fruition-app/static/js/main.ce77b8b1.js.map",
+    "main.cdc6d0d3.css.map": "/fruition-app/static/css/main.cdc6d0d3.css.map",
+    "main.27bc7c53.js.map": "/fruition-app/static/js/main.27bc7c53.js.map",
     "787.5614b298.chunk.js.map": "/fruition-app/static/js/787.5614b298.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.392192a3.css",
-    "static/js/main.ce77b8b1.js"
+    "static/css/main.cdc6d0d3.css",
+    "static/js/main.27bc7c53.js"
   ]
 }
