@@ -1,0 +1,440 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Nunito", sans-serif;
+}
+
+.auth-button {
+  border-radius: 10px;
+  border: none;
+  outline: none;
+  width: 100%;
+  padding: 15px 0;
+  color: #fff;
+  font-size: 16px;
+  letter-spacing: 1px;
+  background: #603bbb;
+  cursor: pointer;
+}
+
+
+
+
+.auth-header {
+  text-align: center;
+}
+
+.login {
+  width: 100%;
+  min-height: 100vh;
+  padding: 0 20px;
+  display: flex;
+}
+
+.login .loginContainer {
+  border-radius: 30px;
+  padding: 60px;
+  margin: auto;
+  width: 100%;
+  max-width: 520px;
+  min-height: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background: #E9EED0;
+  box-shadow: 0 50px 70px -20px rgba(0, 0, 0, 0.8);
+}
+
+.login .loginContainer label {
+  margin: 14px 0;
+  display: block;
+  font-size: 22px;
+  line-height: 1;
+}
+
+.login .loginContainer input {
+  border-radius: 10px;
+  width: 100%;
+  outline: none;
+  font-size: 15px;
+  padding: 10px;
+  background: rgba(255, 255, 255, 0.1);
+  letter-spacing: 1px;
+  border-width: 1px;
+}
+
+.login .loginContainer .btnContainer {
+  width: 100%;
+  padding: 24px 0;
+}
+
+.login .loginContainer .btnContainer p {
+  margin: 14px 0 0 0;
+  text-align: right;
+}
+
+.login .loginContainer .btnContainer p span {
+  color: #603bbb;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  margin-left: 5px;
+  cursor: pointer;
+  transition: all 400ms ease-in-out;
+}
+
+.login .loginContainer .btnContainer p span:hover {
+  color: red;
+}
+
+.login .loginContainer .errorMsg {
+  color: #603bbb;
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+
+.fruition {
+  width: 100%;
+  min-height: 100vh;
+  background: #fff5ee;
+}
+
+.fruition nav {
+  background: #A7AB95;
+  width: 100%;
+  padding: 33px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 50px;
+  border-radius: 10px;
+}
+
+.fruition nav h2 {
+  color: #fff;
+}
+
+.fruition nav button {
+  width: 134px;
+  padding: 8px 0;
+  background: #f5f3ef;
+  border-radius: 8px;
+  border-color: #dfdcd7;
+  border-width: 1px;
+  margin-left: 10px;
+  border: solid #603bbb;
+  border-width: 1.4px;
+}
+
+.nav-link {
+
+  width: 134px;
+  background: #f5f3ef;
+  border-radius: 8px;
+  border-color: #dfdcd7;
+  border-width: 1px;
+  color: black;
+  text-align: center;
+  margin-left: 11px;
+  border: solid #603bbb;
+  border-width: 1.4px;
+  
+}
+
+.fruition nav a:link {
+  text-decoration: none;
+}
+
+.fruition nav a:hover {
+  text-decoration: none;
+}
+
+
+.navigate-links{
+  display: inherit;
+  margin-left: auto;
+}
+last-link{
+  margin-left: 10px;
+}
+
+
+img.bg {
+  min-height: 100%;
+  min-width: 1024px;
+
+  width: 100%;
+  height: auto;
+
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+
+.contain {
+
+  background: #E9EED0 ;
+
+  text-align: center;
+  /* box-shadow: 0 50px 70px -20px rgba(0, 0, 0, 0.8); */
+  margin-left: 20px;
+  border-radius: 20px;
+  height: 250px;
+  border-color: #5F7E39;
+  
+}
+
+.contain button {
+  border-radius: 30px;
+}
+
+.background {
+  position: relative;
+  width: 10%;
+  height: 249px;
+  border-radius: 15px;
+  margin-left: 43.4%;
+  margin-top: 260px;
+  margin-bottom: 235px;
+}
+
+.background2 {
+  position: absolute;
+  left: 25%;
+  width: 48%;
+  height: 689px;
+  top: 127px
+}
+
+.background-logo {
+  padding: 14px;
+  border-radius: 20px;
+  width: 445px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  background-color: #FFAB84;
+}
+
+.logo {
+  width: 185px;
+  margin-left: 20px;
+}
+
+.logo-form {
+  width: 300px;
+  margin-left: 30%;
+}
+
+.new-plan-form {
+  background: #E9EED0;
+  box-shadow: 0 50px 70px -20px rgba(0, 0, 0, 0.8);
+  padding: 60px;
+  border-radius: 10px;
+  min-height: 400px;
+}
+
+
+.new-plan-form-button {
+  border-radius: 10px;
+  border: none;
+  outline: none;
+  width: 100%;
+  padding: 15px 0;
+  font-size: 16px;
+  letter-spacing: 1px;
+  border: solid #603bbb;
+  border-width: 1.4px;
+  background: #f5f3ef;
+  cursor: pointer;
+  color: black;
+  margin-left: 33%;
+}
+
+.admin-event-card {
+  width: 80%;
+  background: rgb(255, 255, 255);
+  box-shadow: 0 50px 70px -20px rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  border-radius: 10px;
+  min-height: 400px;
+  margin-top: 110px;
+  margin-left: 10.5%;
+}
+
+
+.event-card {
+  /* background: rgb(255, 255, 255);
+  box-shadow: 10px 50px 70px -20px rgba(0, 0, 0, 0.8); */
+  background-color: #0093E9;
+  background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+  box-shadow: 10px 50px 70px -20px rgba(0, 0, 0, 0.8);
+
+
+  padding: 40px;
+  border-radius: 50px;
+  margin-top: 20px;
+  width: 100%;
+}
+
+.message-card {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #FBAB7E;
+  background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
+
+  box-shadow: 0 50px 70px -20px rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  border-radius: 10px;
+  min-height: 400px;
+  margin-top: 110px;
+}
+
+.message-card textarea {
+  border-radius: 10px;
+  margin-top: 30px;
+}
+
+
+
+.message-card h6 {
+
+  border-radius: 10px;
+  box-shadow: 0 50px 70px -20px rgba(0, 0, 0, 0.8);
+  margin: 20px;
+}
+
+
+
+.admin-messages-card {
+  width: 600px;
+  background: rgb(255, 255, 255);
+  box-shadow: 0 50px 70px -20px rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  border-radius: 10px;
+  min-height: 400px;
+  margin-top: 110px;
+  margin-left: 10.5%;
+}
+
+
+.admin-message-card {
+  background-color: #FBAB7E;
+  background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
+  box-shadow: 10px 50px 70px -20px rgba(0, 0, 0, 0.8);
+
+
+  padding: 40px;
+  border-radius: 50px;
+  margin-top: 20px;
+  width: 100%;
+}
+
+.react-datepicker-wrapper,
+.react-datepicker__input-container,
+.react-datepicker__input-container input {
+  display: block;
+  width: 100%;
+  border-radius: 5px;
+  padding: 5px;
+  border-width: 1px;
+  border-color: rgb(170, 170, 170);
+}
+
+
+.timepicker
+{
+  border-radius: 5px !important;
+}
+.react-time-picker__wrapper
+{
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.react-time-picker__clock,
+.react-time-picker__clock--open{
+  
+  border-radius: 5px;
+}
+
+.hotel
+{
+  border-radius: 30px;
+  background-color: #BCC0A8;
+  box-shadow: 10px 50px 70px -20px rgba(0, 0, 0, 0.8);
+  height: 350px;
+}
+.hotel-card
+{
+  flex: 25%;
+}
+
+.hotel-img
+{
+  height: 160px;
+  border-radius: 30px;
+}
+
+.hotel-button
+{
+  border-radius: 10px;
+  background: #F5F3EF;
+  border: none;
+  color: black;
+  border: solid #603bbb;
+  border-width: 1px;
+}
+
+.invite-box{
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.delete-bookings
+{
+  padding: 9px;
+  border-radius: 10px;
+  width: 100px;
+  margin-left: 74%;
+  border: none;
+}
+
+.booking-logo{
+  margin-left: 20%;
+}
+
+.event-details{
+  border-radius: 20px;
+  background-color: #BCC0A8;
+  box-shadow: 10px 50px 70px -20px rgba(0, 0, 0, 0.8)
+}
+
+.event-details-button
+{
+  margin-left: 37%;
+}
+
+.messages
+{
+  border-radius: 20px;
+  background-color: #E9EED0;
+  box-shadow: 10px 50px 70px -20px rgba(0, 0, 0, 0.8);
+  width:70%;
+  height:300px
+}
+
+.message{
+  border-radius: 20px;
+  background-color: #ffffff;
+  box-shadow: 10px 50px 70px -20px rgba(0, 0, 0, 0.8);
+}
+
+.send-message-button
+{
+  margin-left: 37%;
+}
