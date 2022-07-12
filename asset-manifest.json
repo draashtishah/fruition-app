@@ -1,17 +1,23 @@
 {
   "files": {
-    "main.css": "/fruition-app/static/css/main.cdc6d0d3.css",
-    "main.js": "/fruition-app/static/js/main.27bc7c53.js",
+    "main.css": "/fruition-app/static/css/main.24aedda8.css",
+    "main.js": "/fruition-app/static/js/main.0ed6db67.js",
     "static/js/787.5614b298.chunk.js": "/fruition-app/static/js/787.5614b298.chunk.js",
-    "static/media/background.jpg": "/fruition-app/static/media/background.ff91f057415476cd29dd.jpg",
+    "static/media/pavilion.png": "/fruition-app/static/media/pavilion.46554158957232c68476.png",
+    "static/media/background.png": "/fruition-app/static/media/background.69314912be432fb79dc9.png",
+    "static/media/sheraton.png": "/fruition-app/static/media/sheraton.fd36a3a6b04e4c0ae60c.png",
+    "static/media/holiday.png": "/fruition-app/static/media/holiday.331621a6609b5835316e.png",
+    "static/media/sunway.png": "/fruition-app/static/media/sunway.146191cbc32ae49bfcda.png",
+    "static/media/four.png": "/fruition-app/static/media/four.3a2533b0b22410a87887.png",
+    "static/media/background2.png": "/fruition-app/static/media/background2.94497e81e86a92d2975a.png",
     "static/media/logo.png": "/fruition-app/static/media/logo.ca074dc34e3ea36c6ec9.png",
     "index.html": "/fruition-app/index.html",
-    "main.cdc6d0d3.css.map": "/fruition-app/static/css/main.cdc6d0d3.css.map",
-    "main.27bc7c53.js.map": "/fruition-app/static/js/main.27bc7c53.js.map",
+    "main.24aedda8.css.map": "/fruition-app/static/css/main.24aedda8.css.map",
+    "main.0ed6db67.js.map": "/fruition-app/static/js/main.0ed6db67.js.map",
     "787.5614b298.chunk.js.map": "/fruition-app/static/js/787.5614b298.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cdc6d0d3.css",
-    "static/js/main.27bc7c53.js"
+    "static/css/main.24aedda8.css",
+    "static/js/main.0ed6db67.js"
   ]
 }
